@@ -10,8 +10,8 @@ rows:
         image: desire_profiles_banner.png
         name: design
     -
-        title: 'Fully Responsive.'
-        description: 'Aenean condimentum, lacus sit amet luctus lobortis, dolores et quas molestias excepturi enim tellus ultrices elit, amet consequat enim elit noneas sit amet luctu. Quis nostrum exercitationem ullam corporis suscipit laboriosam.Our library is continually refreshed with the latest on web technology so you''ll never fall behind. Quis nostrum exercitationem ullam corporis suscipit laboriosam.'
+        title: 'nvincible Core Doubtless Self Nature'
+        description: 'MYiPATHS helps you discover the security of your Doubtless Self, which enables the eradication of self esteem issues in i-Roles replacing the fear of change with a delight in learning.'
         description_position: left
         image: feature-image-2.png
         name: responsive
