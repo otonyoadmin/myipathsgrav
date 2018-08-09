@@ -10,7 +10,7 @@ rows:
         image: desire_profiles_banner.png
         name: design
     -
-        title: 'nvincible Core Doubtless Self Nature'
+        title: 'Invincible Core Doubtless Self Nature'
         description: 'MYiPATHS helps you discover the security of your Doubtless Self, which enables the eradication of self esteem issues in i-Roles replacing the fear of change with a delight in learning.'
         description_position: left
         image: feature-image-2.png
