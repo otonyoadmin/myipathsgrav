@@ -1,5 +1,5 @@
 ---
-title: 'Become Your Own Expert Selfmentor - Learn 50% faster with your Doubtless Self from your experiences in life & work'
+title: 'Become Your Own Expert Selfmentor Learn 50% faster with your Doubtless Self from your life & work experiences'
 media_order: 'custom-header-bg.jpg,hero-image.png'
 showcase_image: custom-header-bg.jpg
 buttons:
