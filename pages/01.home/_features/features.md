@@ -5,7 +5,7 @@ visible: false
 rows:
     -
         title: 'Harness The Power Of Your Desires.'
-        description: 'Start getting what you truly want not what you thought you wanted before you had it like so many times in the past. Develop clear purposeful strategies that deliver and enable passionate positive participation using Desire Profiles for each i-Role. Use the templates supplied to list and explore your objects of desire in each i-Role then begin to refine them mindfully using mindful1st positive participation practice reviews.'
+        description: 'Start getting what you truly want not what you thought you wanted before you had it, like so many times in the past. Develop clear purposeful strategies that deliver and enable passionate positive participation using Desire Profiles for each i-Role. Use the templates supplied to list and explore your objects of desire in each i-Role then begin to refine them mindfully using mindful1st positive participation practice reviews.'
         description_position: right
         image: desire_profiles_banner.png
         name: design
