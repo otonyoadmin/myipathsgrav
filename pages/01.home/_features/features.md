@@ -4,7 +4,7 @@ media_order: 'desire_profiles_banner.png,feature-image-1.png,feature-image-2.png
 visible: false
 rows:
     -
-        title: 'Harness The Inspirational Power Of Your Desires.'
+        title: 'Harness The Power Of Your Desires.'
         description: 'Lorem ipsum dolor sit amet, ea eum labitur scripserit, illum complectitur deterruisset at pro. Odio quaeque reformidans est eu, expetendis intellegebat has ut, viderer invenire ut his. Has molestie percipit an. Falli volumus efficiantur sed id, ad vel noster propriae. Ius ut etiam vivendo, graeci iudicabit constituto at mea. No soleat fabulas prodesset vel, ut quo solum dicunt. Nec et amet vidisse mentitum. Cibo mutat nulla ei eam.'
         description_position: right
         image: desire_profiles_banner.png
