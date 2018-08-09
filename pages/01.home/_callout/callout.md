@@ -6,6 +6,6 @@ buttons:
         url: 'http://www.myipaths.com'
 ---
 
-##[Become YourHost This Template on Dreamhost.](http://www.otonyo.com)
-Looking for an awesome and reliable webhosting? Try [DreamHost](http://www.otonyo.com/).
-Get <span>$50 off</span> when you sign up with the promocode <span>STYLESHOUT</span>. 
+##[Become your best Selfmentor.](http://www.mypaths.com)
+Want to start loving how you live and work? Try [DreamHost](http://www.mypaths.com).
+Get <span>50% off early adapter rates</span> in return for monthly reviews of our service <span>STYLESHOUT</span>. 
