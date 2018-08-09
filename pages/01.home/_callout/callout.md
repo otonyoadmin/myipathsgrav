@@ -3,7 +3,7 @@ title: 'Get MYiPATHS'
 buttons:
     -
         text: 'Sign Up Now'
-        url: 'http://www.dreamhost.com/r.cgi?287326|STYLESHOUT'
+        url: 'http://www.myipaths.com'
 ---
 
 ##[Become YourHost This Template on Dreamhost.](http://www.otonyo.com)
