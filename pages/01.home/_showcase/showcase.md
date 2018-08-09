@@ -4,7 +4,7 @@ media_order: 'custom-header-bg.jpg,hero-image.png'
 showcase_image: custom-header-bg.jpg
 buttons:
     -
-        text: 'Join Herel'
+        text: 'Join Here'
         url: '#'
         class: 'button trial animated shake'
     -
