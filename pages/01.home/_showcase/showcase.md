@@ -13,5 +13,5 @@ buttons:
         class: 'button learn-more smoothscroll'
 ---
 
-Become the self developmnet expert in your own life with mindful 1st MYiPATHS. Get all the online apps, templates and professional one to one suport you need to enable positive participation in your life and work using Desire Profiles with MYiPATHS.
+Become the self development expert in your own life with mindful 1st MYiPATHS. Get all the online apps, templates and professional one to one suport you need to enable positive participation in your life and work using Desire Profiles with MYiPATHS.
 
