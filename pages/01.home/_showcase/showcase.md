@@ -1,5 +1,5 @@
 ---
-title: 'Become Your Own Expert Selfmentor Learn 50% faster with your Doubtless Self from your life & work experiences'
+title: 'Become Your Own Expert Selfmentor Learn 50% faster from your life & work experiences'
 media_order: 'custom-header-bg.jpg,hero-image.png'
 showcase_image: custom-header-bg.jpg
 buttons:
@@ -13,5 +13,5 @@ buttons:
         class: 'button learn-more smoothscroll'
 ---
 
-Become the self development expert in your own life with mindful 1st MYiPATHS. Get all the online apps, templates and professional one to one suport you need to enable positive participation in your life and work using Desire Profiles with MYiPATHS.
+Meet your mindful 1st Doubtless Self & become the self development expert in your own life with MYiPATHS. Get all the online apps, templates and professional one to one suport you need to enable positive participation in your life and work using Desire Profiles with MYiPATHS.
 
