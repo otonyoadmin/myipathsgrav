@@ -16,8 +16,8 @@ rows:
         image: one_door_psychosynthesis_from_me_self_i.png
         name: responsive
     -
-        title: 'Cross-Browser Compatible.'
-        description: 'Lorem ipsum dolor sit amet, ea eum labitur scripserit, illum complectitur deterruisset at pro. Odio quaeque reformidans est eu, expetendis intellegebat has ut, viderer invenire ut his. Has molestie percipit an. Falli volumus efficiantur sed id, ad vel noster propriae. Ius ut etiam vivendo, graeci iudicabit constituto at mea. No soleat fabulas prodesset vel, ut quo solum dicunt. Nec et amet vidisse mentitum. Cibo mutat nulla ei eam.'
+        title: 'Personal, Professional and Spiritual.'
+        description: 'Integrate your one, secure, infinitely spacious Doubtless Self with your many changing i-Roles in life and work. Identify, manage and monitor the integration of your life goals positively, while preventing worry, anxiety and stress during periods of rapid change and development. We all need the best tools and methods for the circumstances in a life of constant change.'
         description_position: right
         image: feature-image-3.png
         name: cross-browser
