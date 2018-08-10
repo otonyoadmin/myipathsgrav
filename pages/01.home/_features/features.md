@@ -22,8 +22,8 @@ rows:
         image: feature-image-3.png
         name: cross-browser
     -
-        title: 'Video Support.'
-        description: 'Aenean condimentum, lacus sit amet luctus lobortis, dolores et quas molestias excepturi enim tellus ultrices elit, amet consequat enim elit noneas sit amet luctu. Quis nostrum exercitationem ullam corporis suscipit laboriosam.Our library is continually refreshed with the latest on web technology so you''ll never fall behind. Quis nostrum exercitationem ullam corporis suscipit laboriosam.'
+        title: 'One to One Support.'
+        description: 'As you are learning how to create your own Desire Profiles we will supply you with professional one to one expert help and support. MYiPATHS enables you to increase your self awareness rapidly, is designed for bright people and treats you as the expert in you. '
         description_position: left
         video: 'http://player.vimeo.com/video/14592941'
         name: video
