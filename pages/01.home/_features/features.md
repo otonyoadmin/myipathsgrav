@@ -1,6 +1,6 @@
 ---
 title: Features
-media_order: 'desire_profiles_banner.png,feature-image-1.png,feature-image-2.png,feature-image-3.png'
+media_order: 'desire_profiles_banner.png,feature-image-1.png,feature-image-2.png,feature-image-3.png,one_door_psychosynthesis_from_me_self_i.png'
 visible: false
 rows:
     -
