@@ -1,5 +1,5 @@
 ---
-title: 'Become Your Own Expert Selfmentor Learn 50% faster from your life & work experiences'
+title: 'MYiPATHS for mapping your mind from the inside out. Become self aware & learn 50% faster from your life & work experiences'
 media_order: 'custom-header-bg.jpg,hero-image.png'
 showcase_image: custom-header-bg.jpg
 buttons:
