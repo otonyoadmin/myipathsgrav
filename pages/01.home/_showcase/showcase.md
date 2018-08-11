@@ -1,5 +1,5 @@
 ---
-title: 'MYiPATHS map your mind from the inside out. '
+title: 'MYiPATHS Refine your objects of desire & map your goals from the inside out. '
 media_order: 'custom-header-bg.jpg,hero-image.png'
 showcase_image: custom-header-bg.jpg
 buttons:
