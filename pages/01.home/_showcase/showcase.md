@@ -14,4 +14,4 @@ buttons:
 ---
 
 **Get to know your Doubtless Self & learn 50% faster from your life & work experiences**.<br>
-Meet your mindful 1st Doubtless Self & become the self development expert in your own life with MYiPATHS. Get direct access to the best expert self knowledge tools available, with all the online apps, templates and professional one to one support you need to enable positive participation in your life and work using Desire Profiles with MYiPATHS.
+Become the self development expert in your own life with MYiPATHS. Get direct access to the best expert self knowledge tools available, with all the online apps, templates and professional one to one support you need to enable positive participation in your life and work using Desire Profiles with MYiPATHS.
