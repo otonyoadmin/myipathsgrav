@@ -14,7 +14,7 @@ buttons:
 ---
 
 **Get to know your Doubtless Self & learn 50% faster from your life & work experiences**.<br>
-* Become the best self development expert in your own life as you learn how to refine and harness the inspirational power from your objects of desire in every role that matters for you. 
+<p class="text-left">* Become the best self development expert in your own life as you learn how to refine and harness the inspirational power from your objects of desire in every role that matters for you. 
 * Adapt and thrive with ease, in the secure confidence that only your own Doubtless Self can enable for a life worth living.
 * Use the Desire Profile templates provided to easily uncover the true nature of what truly satisfies you.
 * Identify and integrate passionate goals in the personal & professional roles you choose to participate positively within.
