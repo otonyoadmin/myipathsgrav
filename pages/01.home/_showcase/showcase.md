@@ -17,5 +17,5 @@ buttons:
 <p class="text-left">* Become the best self development expert in your own life as you learn how to refine and harness the inspirational power from your objects of desire in every role that matters for you.<br>
 * Adapt and thrive with ease, in the secure confidence that only your own Doubtless Self can enable for a life worth living.<br>
 * Use the Desire Profile templates provided to easily uncover the true nature of what truly satisfies you.<br>
-* Identify and integrate passionate goals in the personal && professional roles you choose to participate positively within.<br>
+* Identify and integrate passionate goals in the personal and professional roles you choose to participate positively within.<br>
 * Become a member and learn how to use the best expert self knowledge tools available, with all the online apps and professional one to one support you need to enable positive participation in your life and work with MYiPATHS.</p>
