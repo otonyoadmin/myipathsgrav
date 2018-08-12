@@ -1,7 +1,6 @@
 ---
 title: 'The easiest way to mindfully discover map & achieve heartfelt goals now'
 media_order: 'custom-header-bg.jpg,hero-image.png'
-showcase_image: custom-header-bg.jpg
 buttons:
     -
         text: 'Join Here'
