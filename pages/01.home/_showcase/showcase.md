@@ -1,5 +1,5 @@
 ---
-title: 'Mindfully enable a healthy mind to discover, map & achieve heartfelt goals now '
+title: 'Mindfully enable a secure healthy mind to discover, map & achieve heartfelt goals now '
 media_order: 'custom-header-bg.jpg,hero-image.png'
 showcase_image: custom-header-bg.jpg
 buttons:
