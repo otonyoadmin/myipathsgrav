@@ -73,7 +73,7 @@ columns:
         icon: trophy
         features:
             -
-                name: 'Weekly One to One Phone Support'
+                name: 'Weekly Confidential Phone Support'
             -
                 name: '5 Weekly Email Reviews'
             -
