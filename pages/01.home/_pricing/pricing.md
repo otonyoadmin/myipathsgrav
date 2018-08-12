@@ -59,7 +59,7 @@ columns:
             -
                 name: 'Unlimited i-PATH Profiles'
             -
-                name: '5 one to one email feedback per weekly'
+                name: '5 one to one email feedback per weekl'
             -
                 name: 'Private online storage 250MB'
         buttons:
