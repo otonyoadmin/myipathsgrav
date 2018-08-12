@@ -2,30 +2,30 @@
 columns:
     -
         title: Starter
-        price1: Free
-        price2: 'per month'
+        price1: €8.00
+        price2: 'per week'
         icon: cog
         features:
             -
                 name: 'One Weekly Email Review'
             -
-                name: '5GB Bandwidth'
+                name: '4 Desire Profiles'
             -
-                name: '2 Domains'
+                name: 'Unlimited i-Role Profiles'
             -
-                name: '3 Databases'
+                name: 'Unlimited i-PATH Profiles'
             -
-                name: '1 FTP Account'
+                name: '1 Monthly one to one feedback'
             -
-                name: '25 Email Accounts'
+                name: 'Private online storage 250MB'
         buttons:
             -
                 text: 'Sign Up'
                 url: '#'
     -
         title: Standard
-        price1: $9.99
-        price2: 'per month'
+        price1: €12.00
+        price2: 'per week'
         icon: thumbs-up
         features:
             -
