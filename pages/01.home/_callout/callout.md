@@ -8,4 +8,4 @@ buttons:
 
 ##[Become your best Selfmentor.](http://www.mypaths.com)
 Want to start loving how you live and work? Try [MYiPATHS](http://www.myipaths.com).
-Get <span>50% off for 12 months early adapter rates</span> in return for monthly reviews of our service <span>Mindful 1st</span>. 
+Get <span>50% off the first 6 months while places last</span> use Desire Profiles to map powerful new positive participation into relationships and roles you care about most. <span>Mindful 1st</span>. 
