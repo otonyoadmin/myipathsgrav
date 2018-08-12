@@ -1,5 +1,5 @@
 ---
-title: 'The perfect way to mindfully discover, map & achieve your heartfelt goals. '
+title: 'Enable your healthy mind, mindfully to discover, map & achieve your heartfelt goals. '
 media_order: 'custom-header-bg.jpg,hero-image.png'
 showcase_image: custom-header-bg.jpg
 buttons:
