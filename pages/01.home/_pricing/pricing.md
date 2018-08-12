@@ -15,7 +15,7 @@ columns:
             -
                 name: 'Unlimited i-PATH Profiles'
             -
-                name: '1 Monthly one to one feedback'
+                name: 'Monthly one to one email feedback'
             -
                 name: 'Private online storage 250MB'
         buttons:
@@ -29,61 +29,61 @@ columns:
         icon: thumbs-up
         features:
             -
-                name: '3GB Storage'
+                name: 'One Weekly Email Review'
             -
-                name: '10GB Bandwidth'
+                name: '8 Desire Profiles'
             -
-                name: '3 Domains'
+                name: 'Unlimited i-Role Profiles'
             -
-                name: '5 Databases'
+                name: 'Unlimited i-PATH Profiles'
             -
-                name: '3 FTP Account'
+                name: 'Weekly one to one email feedback'
             -
-                name: '30 Email Accounts'
+                name: 'Private online storage 250MB'
         buttons:
             -
                 text: 'Sign Up'
                 url: '#'
     -
         title: Premium
-        price1: $19.99
+        price1: €19.00
         price2: 'per month'
         icon: star
         features:
             -
-                name: '10GB Storage'
+                name: '5 Weekly Email Reviews'
             -
-                name: '25GB Bandwidth'
+                name: '15 Desire Profiles'
             -
-                name: '5 Domains'
+                name: 'Unlimited i-Role Profiles'
             -
-                name: '10 Databases'
+                name: 'Unlimited i-PATH Profiles'
             -
-                name: '10 FTP Account'
+                name: '5 one to one email feedback, weekly'
             -
-                name: '50 Email Accounts'
+                name: 'Private online storage 250MB'
         buttons:
             -
                 text: 'Sign Up'
                 url: '#'
     -
         title: Ultimate
-        price1: $29.99
+        price1: $49.00
         price2: 'per month'
         icon: trophy
         features:
             -
-                name: '30GB Storage'
+                name: '5 Weekly Email Reviews'
             -
-                name: 'Unlimited Bandwidth'
+                name: '15 Desire Profiles'
             -
-                name: '10 Domains'
+                name: 'Unlimited i-Role Profiles'
             -
-                name: '15 Databases'
+                name: 'Unlimited i-PATH Profiles'
             -
-                name: '10 FTP Account'
+                name: '5 one to one email feedback per week'
             -
-                name: '50 Email Accounts'
+                name: 'Private online storage 250MB'
         buttons:
             -
                 text: 'Sign Up'
