@@ -91,5 +91,5 @@ columns:
 ---
 
 #Pricing Tables.
-MYiPATHS requires compassionate  application over time and for that reason initial sign up is for a minimum of 6 months after which you can cancel giving one months’ notice. You can move between plans at any stage and depending upon the challenges you are facing at any particular time. 
+MYiPATHS works compassionately one role at a time, one week at a time and for that reason initial sign up is for a minimum of 6 months after which you can cancel giving one months’ notice. You can move between plans at any stage and depending upon the challenges you are facing at any particular time. 
 If you are financially challenged you can apply for a reduced rate for increased services for 6 months at any stage of your membership.
