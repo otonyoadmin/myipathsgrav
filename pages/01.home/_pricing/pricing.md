@@ -68,14 +68,16 @@ columns:
                 url: '#'
     -
         title: Ultimate
-        price1: $49.00
+        price1: €49.00
         price2: 'per month'
         icon: trophy
         features:
             -
+                name: 'Weekly One to One Phone Support'
+            -
                 name: '5 Weekly Email Reviews'
             -
-                name: '15 Desire Profiles'
+                name: '30 Desire Profiles'
             -
                 name: 'Unlimited i-Role Profiles'
             -
