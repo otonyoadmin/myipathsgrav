@@ -1,5 +1,5 @@
 ---
-title: 'The easiest way to mindfully discover map & achieve heartfelt goals now'
+title: 'MYiPATHS<br>The easiest way to mindfully discover map & achieve heartfelt goals now'
 media_order: 'custom-header-bg.jpg,hero-image.png'
 buttons:
     -
