@@ -1,5 +1,6 @@
 ---
-title: Style Guide
+title: 'Style Guide'
+published: false
 ---
 
 #Style Guide.
