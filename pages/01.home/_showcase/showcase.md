@@ -1,5 +1,5 @@
 ---
-title: 'MYiPATHS - refine your objects of desire, discover & map your most passionate goals from the inside out. '
+title: 'MYiPATHS - follow your knowledge, refine your objects of desire, discover & map your most passionate goals from the inside out. '
 media_order: 'custom-header-bg.jpg,hero-image.png'
 showcase_image: custom-header-bg.jpg
 buttons:
