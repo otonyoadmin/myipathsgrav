@@ -1,5 +1,5 @@
 ---
-title: 'A great way to discover map & achieve heartfelt goals now, in a healthy mind'
+title: 'A great way to mindfully discover map & achieve heartfelt goals now, in a healthy mind'
 media_order: 'custom-header-bg.jpg,hero-image.png'
 showcase_image: custom-header-bg.jpg
 buttons:
