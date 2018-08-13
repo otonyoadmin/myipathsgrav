@@ -1,12 +1,18 @@
 ---
+title: ''
+media_order: ''
+body_classes: ''
+order_by: ''
+order_manual: ''
+---
+
+---
 
 ---
 <div class="row section-head">
 <div class="twelve columns" markdown="1">
-  #MailChimp signup form.
-  Adding your own MailChimp powered email sign-up is easy.
-  Grab the super slim code from your MailChimp account and drop the code here. Lastly, remove the link and style tags
-  that comes with the embedded code and your good to go. All styling is within our stylesheet.
+  #Newsletter Signup.
+  Signup to receive focused newsletters which will provide MYiPATH best solutions for issues that you and other members of our wider community identify as interesting for you.
 </div>
 </div>
 
