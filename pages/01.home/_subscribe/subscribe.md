@@ -4,7 +4,8 @@
 <div class="row section-head">
 <div class="twelve columns" markdown="1">
   #Newsletter Signup.
-  Signup to receive focused newsletters which will provide MYiPATH best solutions for issues that you and other members of our wider community identify as interesting for you.</div>
+  Signup to receive focused newsletters which will provide MYiPATH best solutions for issues that you and other members of our wider community identify as interesting for you.
+</div>
 </div>
 
 <div class="row">
