@@ -11,7 +11,7 @@ rows:
         name: design
     -
         title: 'Invincible Core Doubtless Self Nature'
-        description: 'MYiPATHS helps you discover the security of your Doubtless Self, which enables the eradication of self esteem issues in i-Roles replacing the fear of change with a delight in learning.'
+        description: 'MYiPATHS helps you discover the security a Doubtless Self, which enables the eradication of self esteem issues in i-Roles replacing the fear of change with a delight in learning.<br>Using a proven self conception, which differentiates between self and the individual identities we inhabit in everyday roles means we can have the consitent direct knowledge of a secure Doubtles Self which abides beyond the identities we inhabit in everyday roles and relationships'
         description_position: left
         image: one_door_psychosynthesis_from_me_self_i.png
         name: responsive
