@@ -5,7 +5,7 @@ visible: false
 rows:
     -
         title: 'Harness The Power Of Your Desires.'
-        description: 'Overcome your fear of change with the insprational power of a new vision and the secure confidence of from your Doubtess Self. Learn how to refine your objects of desire mindfully using Desire Profiles and start getting what you truly want now. Develop clear purposeful strategies that deliver and enable passionate positive participation using Desire Profiles for each i-Role. Use the templates supplied to list and explore your objects of desire in each i-Role then begin to refine them mindfully using mindful1st positive participation practice reviews.'
+        description: 'Overcome and manage the natural fears that change can cause, with the insprational power of a new vision and the secure confidence of from your Doubtess Self. Learn how to refine your objects of desire mindfully using Desire Profiles and start getting what you truly want now. Develop clear purposeful strategies that deliver and enable passionate positive participation using Desire Profiles for each i-Role. Use the templates supplied to list and explore your objects of desire in each i-Role then begin to refine them mindfully using mindful1st positive participation practice reviews.'
         description_position: right
         image: desire_profiles_banner.png
         name: design
