@@ -17,7 +17,7 @@ rows:
         name: responsive
     -
         title: 'Personal, Professional and Spiritual.'
-        description: 'Integrate your one, secure, infinitely spacious Doubtless Self with your many changing i-Roles in life and work. Identify, manage and monitor the integration of your life goals positively, while preventing worry, anxiety and stress during periods of rapid change and development. We all need the best tools and methods for the circumstances in a life of constant change.'
+        description: 'Integrate your one, secure, infinitely spacious Doubtless Self with your many changing i-Roles in life and work. Identify, manage and monitor the integration of your life goals positively, while preventing worry, anxiety and stress during periods of rapid change and development. <br>We all need the best tools and methods to stay centred, cool and focused, while managing our experiences and thriving in this new life of constant change and information overload.'
         description_position: right
         image: myipaths_1_doubtless_Self_maniroles.jpg
         name: cross-browser
