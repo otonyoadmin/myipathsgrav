@@ -28,8 +28,8 @@ rows:
         video: 'http://player.vimeo.com/video/14592941'
         name: video
     -
-        title: 'Take Contro With Your Doubtless Self'
-        description: 'Learn how to refine & harness the inspirational power from your objects of desire in every role that matters for you now. Experience the secure self confidence that only knowing your own Doubtless Self can enable. Adapt change & thrive with enthusiasm. Identify & integrate passionate goals in all your roles using Desire Profiles. Learn how to use the best expert self knowledge tools available, with all the online apps and professional one to one support you need to enable positive participation in your life and work.'
+        title: 'Taking Control With Your Doubtless Self'
+        description: 'Learn how to mindfully refine & harness the inspirational power from your objects of desire in every role that matters for you now. Experience the secure self confidence that only knowing your own Doubtless Self can enable. Adapt change & thrive with enthusiasm. Identify & integrate passionate goals in all your roles using Desire Profiles. Learn how to use the best expert self knowledge tools available, with all the online apps and professional one to one support you need to enable positive participation in your life and work.'
         description_position: left
         image: one_door_psychosynthesis_from_me_self_i.png
         name: responsive1
