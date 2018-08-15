@@ -47,7 +47,7 @@ columns:
     -
         title: Premium
         price1: €19.00
-        price2: 'per month'
+        price2: 'per week'
         icon: star
         features:
             -
@@ -69,7 +69,7 @@ columns:
     -
         title: Ultimate
         price1: €49.00
-        price2: 'per month'
+        price2: 'per week'
         icon: trophy
         features:
             -
