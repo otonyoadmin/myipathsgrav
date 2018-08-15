@@ -13,4 +13,4 @@ buttons:
 ---
 
 **Get to know your Doubtless Self & learn 50% faster from your life & work experiences**.<br>
-<p class="text-left">Are you ready to start taking control in your life and work with your Doubtless Self, ready begin every day loving how you live and work. </p>
+<p class="text-left">Are you ready to start taking control in your life and work with your Doubtless Self, ready to begin every day loving how you live and work. </p>
