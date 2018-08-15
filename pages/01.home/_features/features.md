@@ -5,13 +5,13 @@ visible: false
 rows:
     -
         title: 'Mindfully Refine & Harness The Power  In Desires.'
-        description: 'Overcome and manage the natural fears that change can cause, with the insprational power of a new vision and the secure confidence of a mindful Doubtess Self. <br>Learn how to refine your objects of desire mindfully using Desire Profiles and start getting what you truly want now. Develop clear purposeful strategies that deliver and enable passionate positive participation using Desire Profiles for each i-Role. <br>Use the templates supplied to list and explore your objects of desire in each i-Role then begin to refine them mindfully using mindful1st positive participation practice reviews.'
+        description: 'Overcome and manage the natural fears that change can cause, with the inspirational power of a new vision and the secure confidence of a mindful Doubtless Self. <br>Learn how to refine your objects of desire mindfully using Desire Profiles and start getting what you truly want now. Develop clear purposeful strategies that deliver and enable passionate positive participation using Desire Profiles for each i-Role. <br>Use the templates supplied to list and explore your objects of desire in each i-Role then begin to refine them mindfully using mindful1st positive participation practice reviews.'
         description_position: right
         image: desire_profiles_banner.png
         name: design
     -
         title: 'Invincible Core Doubtless Self Nature'
-        description: 'MYiPATHS helps you discover the security a Doubtless Self, which enables the eradication of self esteem issues in i-Roles replacing the fear of change with a delight in learning.<br>Using a proven invincible self conception, which differentiates between self and the individual identities we inhabit in everyday roles means we can have the consitent direct knowledge of a secure Doubtless Self, which abides within us beyond the passing identities we inhabit in everyday roles and relationships'
+        description: 'MYiPATHS helps you discover the security a Doubtless Self, which enables the eradication of self esteem issues in i-Roles replacing the fear of change with a delight in learning.<br>Using a proven invincible self conception, which differentiates between self and the individual identities we inhabit in everyday roles means we can have the consistent direct knowledge of a secure Doubtless Self, which abides within us beyond the passing identities we inhabit in everyday roles and relationships'
         description_position: left
         image: one_door_psychosynthesis_from_me_self_i.png
         name: responsive
@@ -27,5 +27,11 @@ rows:
         description_position: left
         video: 'http://player.vimeo.com/video/14592941'
         name: video
+    -
+        title: 'Invincible Core Doubtless Self Nature'
+        description: 'Learn how to refine & harness the inspirational power from your objects of desire in every role that matters for you now. Experience the secure self confidence that only knowing your own Doubtless Self can enable. Adapt change & thrive with enthusiasm. Identify & integrate passionate goals in all your roles using Desire Profiles. Learn how to use the best expert self knowledge tools available, with all the online apps and professional one to one support you need to enable positive participation in your life and work.'
+        description_position: left
+        image: one_door_psychosynthesis_from_me_self_i.png
+        name: responsive1
 ---
 
