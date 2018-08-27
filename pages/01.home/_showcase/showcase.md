@@ -1,7 +1,7 @@
 ---
 title: '<font color="#8712AD">MYiPATHS<br></font>Do you need to remove self doubt from your relationships and professional roles?'''
 media_order: 'custom-header-bg.jpg,hero-image.png'
-showcase_image: 'making_u_the_#8712ADexpert_inu3.png'
+showcase_image: making_u_the_expert_inu3.png
 buttons:
     -
         text: 'Join Here'
