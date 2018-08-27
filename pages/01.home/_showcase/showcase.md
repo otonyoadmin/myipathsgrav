@@ -1,5 +1,5 @@
 ---
-title: 'MYiPATHS<br>Do you need to remove self doubt from your relationship and professional roles?'
+title: 'MYiPATHS<br>Do you need to remove self doubt from your relationships and professional roles?'
 media_order: 'custom-header-bg.jpg,hero-image.png'
 showcase_image: making_u_the_expert_inu3.png
 buttons:
