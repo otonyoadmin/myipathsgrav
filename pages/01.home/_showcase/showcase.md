@@ -1,5 +1,5 @@
 ---
-title: '<font color="#8712AD"><h1>MYiPATHS<br></font></h1>Do you need to remove self doubt from your relationships and professional roles?'''
+title: '<font color="#8712AD">MYiPATHS<br></font>Do you need to remove self doubt from your relationships and professional roles?'''
 media_order: 'custom-header-bg.jpg,hero-image.png'
 showcase_image: 'making_u_the_#8712ADexpert_inu3.png'
 buttons:
