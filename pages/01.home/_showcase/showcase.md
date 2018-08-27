@@ -13,5 +13,5 @@ buttons:
         class: 'button learn-more smoothscroll'
 ---
 
-#### **Get to know your Doubtless Self & learn 50% faster from your life & work experiences.**<br>
-Are you ready to start taking control in your life and work with your Doubtless Self, ready to **begin every day loving how you live and work.**
+#### Get to know your Doubtless Self & learn 50% faster from your life & work experiences.<br>
+#### Are you ready to start taking control in your life and work with your Doubtless Self, ready to begin every day loving how you live and work.
