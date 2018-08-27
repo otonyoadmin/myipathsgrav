@@ -2,14 +2,14 @@
 columns:
     -
         title: Starter
-        price1: €8.00
+        price1: €18.00
         price2: 'per week'
         icon: cog
         features:
             -
                 name: 'One Weekly Email Review'
             -
-                name: '4 Desire Profiles'
+                name: '2 Desire Profiles'
             -
                 name: 'Unlimited i-Role Profiles'
             -
@@ -24,20 +24,20 @@ columns:
                 url: '#'
     -
         title: Standard
-        price1: €12.00
+        price1: €22.00
         price2: 'per week'
         icon: thumbs-up
         features:
             -
                 name: 'One Weekly Email Review'
             -
-                name: '8 Desire Profiles'
+                name: '3 Desire Profiles'
             -
                 name: 'Unlimited i-Role Profiles'
             -
                 name: 'Unlimited i-PATH Profiles'
             -
-                name: 'Weekly one to one email feedback'
+                name: 'Twice monthly one to one email feedback'
             -
                 name: 'Private online storage 250MB'
         buttons:
@@ -46,20 +46,20 @@ columns:
                 url: '#'
     -
         title: Premium
-        price1: €19.00
+        price1: €39.00
         price2: 'per week'
         icon: star
         features:
             -
-                name: '5 Weekly Email Reviews'
+                name: '1 Weekly Email Reviews'
             -
-                name: '15 Desire Profiles'
+                name: '6 Desire Profiles'
             -
                 name: 'Unlimited i-Role Profiles'
             -
                 name: 'Unlimited i-PATH Profiles'
             -
-                name: '5 one to one email feedback per weekl'
+                name: 'Twice monthly  one to one email feedback'
             -
                 name: 'Private online storage 250MB'
         buttons:
@@ -68,22 +68,22 @@ columns:
                 url: '#'
     -
         title: Ultimate
-        price1: €49.00
+        price1: €89.00
         price2: 'per week'
         icon: trophy
         features:
             -
-                name: 'Weekly Confidential Phone Support'
+                name: '30 min Weekly Phone Support'
             -
-                name: '5 Weekly Email Reviews'
+                name: 'Weekly Email Reviews'
             -
-                name: '30 Desire Profiles'
+                name: '12 Desire Profiles Annually'
             -
                 name: 'Unlimited i-Role Profiles'
             -
                 name: 'Unlimited i-PATH Profiles'
             -
-                name: '5 one to one email feedback per week'
+                name: '1 one to one email feedback per week'
             -
                 name: 'Private online storage 250MB'
         buttons:
