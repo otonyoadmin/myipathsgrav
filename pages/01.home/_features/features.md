@@ -25,7 +25,7 @@ rows:
         title: 'One to One Support.'
         description: 'As you are learning how to create your own Desire Profiles we will supply you with professional one to one expert help and support. MYiPATHS enables you to increase your self awareness rapidly, is designed for bright people and treats you as the expert in you. '
         description_position: left
-        video: 'https://player.vimeo.com/video/16211701'
+        video: guidetohappiness.mp4
         name: video
     -
         title: 'Taking Mindful Control With Your Doubtless Self'
