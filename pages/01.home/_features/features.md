@@ -22,14 +22,14 @@ rows:
         image: myipaths_1_doubtless_Self_maniroles.jpg
         name: cross-browser
     -
-        title: 'One to One Support.'
-        description: 'As you are learning how to create your own Desire Profiles we will supply you with professional one to one expert help and support. MYiPATHS enables you to increase your self awareness rapidly, is designed for bright people and treats you as the expert in you. '
+        title: 'Taking Mindful Control With Your Doubtless Self.'
+        description: 'Learn how to mindfully refine & harness the inspirational power from your objects of desire in every role that matters for you now. Experience the secure self confidence that only knowing your own Doubtless Self can enable. Adapt change & thrive with enthusiasm. Identify & integrate passionate goals in all your roles using Desire Profiles. Learn how to use the best expert self knowledge tools available, with all the online apps and professional one to one support you need to enable positive participation in your life and work.'
         description_position: left
         video: 'http://player.vimeo.com/video/16211701'
         name: video
     -
-        title: 'Taking Mindful Control With Your Doubtless Self'
-        description: 'Learn how to mindfully refine & harness the inspirational power from your objects of desire in every role that matters for you now. Experience the secure self confidence that only knowing your own Doubtless Self can enable. Adapt change & thrive with enthusiasm. Identify & integrate passionate goals in all your roles using Desire Profiles. Learn how to use the best expert self knowledge tools available, with all the online apps and professional one to one support you need to enable positive participation in your life and work.'
+        title: 'One to One Support'
+        description: 'As you are learning how to create your own Desire Profiles we will supply you with professional one to one expert help and support. MYiPATHS enables you to increase your self awareness rapidly, is designed for bright people and treats you as the expert in you.'
         description_position: left
         image: one_door_psychosynthesis_from_me_self_i.png
         name: responsive1
